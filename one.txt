@@ -1,2 +1,0 @@
-this is origin repository for git
-this is git diff staged
